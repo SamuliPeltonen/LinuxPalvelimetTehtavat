@@ -1,10 +1,11 @@
-a) 
+# a) 
 Kirjoitan ulkomuistista, sillä kokeilin livetikkua tunnilla. Asensin virtualboxiin Ubuntun, joten teen seuraavan tehtävän VM:n antamien komponenttien mukaan. 
-b) 
+# b) 
 lshw antaa raudaksi seuraavat: 
-=======================================================
+`
 H/W path            Device      Class       Description
 
+=======================================================
                                 system      VirtualBox
 /0                              bus         VirtualBox
 /0/0                            memory      128KiB BIOS
@@ -30,16 +31,16 @@ H/W path            Device      Class       Description
 /0/100/d/0.0.0/3/5  /dev/sda5   volume      9212MiB EXT4 volume
 /0/3                            input       PnP device PNP0303
 /0/4                            input       PnP device PNP0f03
-=======================================================
-c ja d) 
- d.1)
+`
+# c ja d) 
+##  d.1)
 Asensin pidgin-messengerin, joka on universaali viestisovellus. Se käyttää GNU General Licenseä, eli se on vapaa ohjelma, johon tehdyt muokkaukset on myös julkaistava vapaana. 
-d.2) 
+## d.2) 
 Asensin Ardourin, joka on musiikinteko ja -miksaussovellus. Sekin käyttää GNU General Licenseä, eli kuten pidgin, sen lähdekoodi on vapaasti saatavissa ja siihen voi tehdä muutoksia, mutta muutoksienkin on oltava vapaita, joten lähdekoodin on oltava saatavilla, eikä uusista julkaisuista voi veloittaa. 
-##d.3) 
+## d.3) 
 Asensin Rhythmboxin, joka on musiikkisoitin. Kuten edelliset sovelluksetkin, se käyttää GNU General Licenseä, joten siihen pätee samat oikeudet ja velvollisuudet kuten aiemmin mainittuihin sovelluksiin. 
 
-e)
+# e)
 Microsoftin kaikki Office-työkalut ovat käytännössä korvattavia LibreOfficen tai OpenOfficen työkaluilla. 
 Esim. Word-Libreoffice Writer, Powerpoint-LibreOffice Impress.
 
