@@ -3,7 +3,7 @@ Kirjoitan ulkomuistista, sillä kokeilin livetikkua tunnilla. Asensin virtualbox
 # b) 
 lshw antaa raudaksi seuraavat: 
 
-`
+```
 H/W path            Device      Class       Description
 
 
@@ -34,7 +34,7 @@ system      VirtualBox
 /0/100/d/0.0.0/3/5  /dev/sda5   volume      9212MiB EXT4 volume
 /0/3                            input       PnP device PNP0303
 /0/4                            input       PnP device PNP0f03
-`
+```
 # c ja d) 
 ##  d.1)
 Asensin pidgin-messengerin, joka on universaali viestisovellus. Se käyttää GNU General Licenseä, eli se on vapaa ohjelma, johon tehdyt muokkaukset on myös julkaistava vapaana. 
