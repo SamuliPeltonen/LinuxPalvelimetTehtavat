@@ -2,11 +2,14 @@
 Kirjoitan ulkomuistista, sillä kokeilin livetikkua tunnilla. Asensin virtualboxiin Ubuntun, joten teen seuraavan tehtävän VM:n antamien komponenttien mukaan. 
 # b) 
 lshw antaa raudaksi seuraavat: 
+
 `
 H/W path            Device      Class       Description
 
+
 =======================================================
-                                system      VirtualBox
+
+system      VirtualBox
 /0                              bus         VirtualBox
 /0/0                            memory      128KiB BIOS
 /0/1                            memory      3328MiB System memory
