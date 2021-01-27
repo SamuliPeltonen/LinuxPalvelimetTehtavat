@@ -1,6 +1,8 @@
 # a) 
-Kirjoitan ulkomuistista, sillä kokeilin livetikkua tunnilla. Asensin virtualboxiin Ubuntun, joten teen seuraavan tehtävän VM:n antamien komponenttien mukaan. 
-# b) 
+Kirjoitan ulkomuistista, sillä kokeilin livetikkua tunnilla.
+Testasin livetikkua vuoden 2016 Dell XPS13-läppärillä ja kaikki toimi hyvin. Poltin tikun Rufuksella, polttamisessa ei tullut mitään ongelmia. 
+Asensin virtualboxiin Ubuntun, joten teen seuraavan tehtävän VM:n antamien komponenttien mukaan. Pienenä sivuhuomiona, vaikkei sitä kysyttykään: jouduin asettamaan BIOSissa virtualisoinnin päälle, joka oli Asus X570-P -emolevyssä nimellä SVM. 
+# b)
 lshw antaa raudaksi seuraavat: 
 
 ```
@@ -35,6 +37,8 @@ system      VirtualBox
 /0/3                            input       PnP device PNP0303
 /0/4                            input       PnP device PNP0f03
 ```
+
+
 # c ja d) 
 ##  d.1)
 Asensin pidgin-messengerin, joka on universaali viestisovellus. Se käyttää GNU General Licenseä, eli se on vapaa ohjelma, johon tehdyt muokkaukset on myös julkaistava vapaana. 
@@ -43,6 +47,7 @@ Asensin Ardourin, joka on musiikinteko ja -miksaussovellus. Sekin käyttää GNU
 ## d.3) 
 Asensin Rhythmboxin, joka on musiikkisoitin. Kuten edelliset sovelluksetkin, se käyttää GNU General Licenseä, joten siihen pätee samat oikeudet ja velvollisuudet kuten aiemmin mainittuihin sovelluksiin. 
 
+Kaikki ohjelmat asentuivat apt-get komennolla. 
 # e)
 Microsoftin kaikki Office-työkalut ovat käytännössä korvattavia LibreOfficen tai OpenOfficen työkaluilla. 
 Esim. Word-Libreoffice Writer, Powerpoint-LibreOffice Impress.
